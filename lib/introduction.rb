@@ -22,6 +22,8 @@ def introduction_with_language (name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
+ ##### PSEUDOCODE ##### 
+
 # defined method: introduction_with_language_optional (takes 2 parameters: name, language = "Ruby")
 # outputs string: "Hi, my name is #{name} and I am learning to program in #{language}."
 
