@@ -13,11 +13,13 @@ def introduction(name)
 end
 
 
-#### PSEUDOCODE ####
+ ##### PSEUDOCODE ##### 
 
+# defined method: introduction_with_language_optional (takes 2 parameters: name, language = "Ruby")
 
-
-
+def introduction_with_language_optional(name, language = "Ruby")
+  puts "Hi, my name is #{name}"
+end
 
 
 
